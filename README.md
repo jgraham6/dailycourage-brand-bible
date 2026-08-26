@@ -1,8 +1,8 @@
 # DailyCourage Brand & Context Bible
 
 **Author:** Jonathan Graham, founder of DailyCourage
-**Purpose:** Brief designers, LLMs, and collaborators on what I'm building, who I am, how I see the world, and how I sound. Treat this as the source of truth for brand voice, definitions, frameworks, and strategy.
-**Sources:** My recorded voice note answering a structured question list, the Courage Camp Week 1 deck, and accumulated working context. Definitions, frameworks, and quotes stay close to my verbatim wording with filler cleaned up. Anything synthesized rather than sourced is marked **[INFERRED]**. Conflicts between sources are flagged in notes rather than silently resolved.
+**Purpose:** Brief collaborators, vendors, designers, LLMs, and collaborators on what I'm building, who I am, how I see the world, and how I sound. Treat this as the source of truth for brand voice, definitions, frameworks, and strategy.
+**Sources:** 60 minutes of recorded voice notes answering 20+ structured questions and accumulated working context from Claude. Definitions, frameworks, and quotes stay close to my verbatim wording with filler cleaned up. Anything synthesized rather than sourced is marked **[INFERRED]**. Conflicts between sources are flagged in notes rather than silently resolved.
 
 ---
 
