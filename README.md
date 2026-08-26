@@ -522,16 +522,3 @@ That's it. That's the campaign. And it's bigger than me finding my wife: it's ab
 
 **Social proof from past cohorts:** members included a patent holder, someone with three Ivy League degrees, a PhD in neuroscience, and a founder who sold a company for $30M+.
 
----
-
-## Gaps to Fill
-
-Open items remaining, in rough priority order:
-
-1. **Courage Camp deck contents, Weeks 2 through 8.** The decks exceed the chat upload limit, so they can't be attached directly. Workarounds: paste the slide text week by week, export each deck to plain text, or dictate a per-week summary. Only Week 1 is fully captured.
-2. **Quote verification before print.** Pin exact published wording and sourcing for the Stephen Covey ladder quote and the Maya Angelou courage quote.
-3. **The Penn State study citation.** The 91.4% figure comes from research on people with generalized anxiety disorder. Pin the exact paper before using the stat in externally published material. Same treatment for the Salesforce Tower's roughly 300-foot foundation depth before it goes in print.
-4. **The Swing Triangle name.** Proposed in this doc for the self-awareness, timing, courage framework. Sign off or rename.
-5. **Sacred Six vs Sacred Seven.** Decide whether Phrase ships as standard or stays optional.
-6. **Brand visual identity.** The prior brand guidelines doc is directionally right but unexecuted. Updated brand guidelines and visual identity are in progress; attach them to this bible when done so the designer works from one package.
-7. **The offer-to-avatar-to-bank mapping.** Design the structure that ties each offer to its avatar and each avatar to its contextualized bank of quotes, references, and stories. Organization TBD.
