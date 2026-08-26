@@ -1,8 +1,8 @@
 # DailyCourage Brand & Context Bible
 
 **Author:** Jonathan Graham, founder of DailyCourage
-**Purpose:** Brief collaborators, vendors, designers, LLMs, and collaborators on what I'm building, who I am, how I see the world, and how I sound. Treat this as the source of truth for brand voice, definitions, frameworks, and strategy.
-**Sources:** 60 minutes of recorded voice notes answering 20+ structured questions and accumulated working context from Claude. Definitions, frameworks, and quotes stay close to my verbatim wording with filler cleaned up. Anything synthesized rather than sourced is marked **[INFERRED]**. Conflicts between sources are flagged in notes rather than silently resolved.
+**Purpose:** Brief designers, LLMs, and collaborators on what I'm building, who I am, how I see the world, and how I sound. Treat this as the source of truth for brand voice, definitions, frameworks, and strategy.
+**Sources:** My recorded voice note answering a structured question list, the Courage Camp Week 1 deck, and accumulated working context. Definitions, frameworks, and quotes stay close to my verbatim wording with filler cleaned up. Anything synthesized rather than sourced is marked **[INFERRED]**. Conflicts between sources are flagged in notes rather than silently resolved.
 
 ---
 
@@ -65,7 +65,7 @@ If DailyCourage fully works, in 10 years it's a globally operating ecosystem of 
 
 In 10 years, the main revenue-generating communities are all live and each generating tens of millions of dollars minimum:
 
-1. **4%:** a private community for couples, the first courage-based community to help people create, cultivate, and keep amazing relationships. The name comes from Dr. David Hawkins and the Map of Consciousness: only about 4% of people ever reach the highest levels. It's aspirational by design. The people in 4% are the ones committed to doing the work and moving into higher levels of consciousness.
+1. **4%:** a paid private community for couples to create and cultivate enviable relationships, the first courage-based community for couples. Think EOS for relationships: EOS works structurally with a network of implementers, a curriculum, 90-day check-ins, its own lexicon, events, and software, and 4% is modeled after that. Couples, whether they met on Hinge, Bumble, Tinder, or anywhere else, join to surround themselves with other couples committed to the relationship and to having amazing lives together. The name comes from Dr. David Hawkins and the Map of Consciousness: only about 4% of people ever reach the highest levels. It's aspirational by design. The people in 4% are the ones committed to doing the work and moving into higher levels of consciousness.
 2. **From Labor to Capital:** everything you need to move from being an employee and thinking like an employee to thinking and acting like an owner, understanding all the ways fear stops people from making that move, and moving up the capital stack.
 3. **From Let Go to Let's Go:** courage for career changers and workforce transitions. This one's free. It helps people who've been laid off get through one of the worst times of their life with dignity, and it brings people into the ecosystem.
 4. **Courage for Business:** the B2B arm described above, also a tens-of-millions business.
@@ -190,6 +190,7 @@ These are canonical. Use them verbatim.
 - The brain is optimized for survival, not success. Negativity bias is the default.
 - The number one operating system on the planet isn't Android, iOS, or Windows. It's fear, running on eight billion minds.
 - Excess fear is the gap between your perceived level of risk and your actual level of risk.
+- Loss aversion, per the behavioral economics I cite: on an even coin flip, people need roughly $2.50 of upside for every $1 of downside before they'll take the bet. The brain prices risk at about 250%. (The basis of the 251% guarantee.)
 - Every fear involves something in the future that hasn't happened plus an outcome you don't want.
 
 ---
@@ -222,7 +223,7 @@ A complete system that helps anybody systematically build courage. Six component
 1. **Courage Compass.** Directionally understand what you want the courage to do, and get super specific about that outcome.
 2. **Courage Baseline.** Measure your courage with the Courage Quotient assessment, delivered as a ScoreApp quiz: a score from 1 to 100 plus a read on where you're strong or weak across the six types of courage.
 3. **Courage Tools.** The Key Three above, plus supporting tools.
-4. **Courage Circles.** Small peer-to-peer pods of 3 to 5 people who show up consistently to reflect and practice the frameworks together. Courage is contagious, and people inherit their fears from the people around them, so who you put yourself around matters. Nothing at DailyCourage is one-on-one. Everything has a group component.
+4. **Courage Circles.** Small peer-to-peer pods of 3 to 5 people who show up consistently to reflect and practice the frameworks together. A circle meets on a recurring basis to talk about courage and fear, read a book in common, and run the exercises: fact checking fears, keeping the Fear Log. They're self-organizing: peer-based learning groups that people form and run themselves, unfacilitated and uncurated by design, and helping people form Courage Circles is one of DailyCourage's core ways of making people more courageous (and a growth engine; see Strategy). Courage is contagious, and people inherit their fears from the people around them, so who you put yourself around matters. Nothing at DailyCourage is one-on-one. Everything has a group component.
 5. **Courage Cadence.** The daily, weekly, monthly, quarterly, and annual rhythms that keep people going, with specific frameworks used at specific intervals.
 6. **Courage Library.** Templates, videos, case studies, audio recordings, guided meditations, and visualizations, so people don't just get frameworks intellectually, they see stories attached to them.
 
@@ -388,6 +389,12 @@ We use our analogies as slogans, and that's by design. There's no hard line betw
 
 ## Ideal Client & ICPs
 
+### The full TAM: all 8 billion
+
+Ultimately, DailyCourage is building for all 8 billion people in the world, because F.E.A.R. is the number one operating system running on all 8 billion minds. Duolingo is the comp for how to think about us: it's used by 17-year-olds and 70-year-olds, by rich people and poor people, with a free tier and a premium tier. DailyCourage is less about someone's age, ethnicity, income, or gender and much more about their psychographic: are they willing to learn something new? We're literally teaching courage, training the muscle, and it takes intellectual courage to learn new things.
+
+Everything below describes who we prioritize for monetization within that TAM.
+
 ### The master ICP
 
 More psychographic than demographic. My ideal client:
@@ -405,14 +412,32 @@ More psychographic than demographic. My ideal client:
 
 Someone who won't pay. Someone who won't acknowledge they have fear, because they'll never see the value. Skeptics who look for reasons to say no; we don't want that energy. People who don't read books. Takers who don't believe in sharing and helping others. I want my people to be genuinely good people who want to help other people, not selfish people trapped in a lower stage of consciousness.
 
-### Sub-audiences by offer
+### Avatars by community
 
-- **From Labor to Capital (priority ICP):** high-earning W-2 corporate professionals, often $100K+, who want to build the courage to become wealthy, become owners and investors, and stop being employees. First avatar built from a recorded coaching conversation with my friend Lauren: 41, healthcare director, 17+ years in biotech/pharma, supports her mom financially, wants out of corporate in 12 months into property plus her own design business, biggest fear is financial insecurity, introvert who'd only join a vetted community.
+**From Let Go to Let's Go (free):** laid-off white-collar and tech professionals in transition.
+
+- **Burnt-out Brannon.** 47, non-technical, college degree, middle-class family. Career stalled out and never took off, let go in an AI-driven layoff. Carries a lot of mental baggage around self-identity, self-belief, and confidence. Reads a couple books a year, listens to podcasts. His biggest problem is isolation: not asking for help, ego getting in the way.
+- **Dynamic D (D. Henry).** Laid off from Zillow and turned her layoff into a layup. Positive mindset, started posting on social media, started her business.
+- **Be-About-It Byron.** 40s, two kids, college degree. Laid off from a government role during the economic downturn. Started his company, Stewart Athletics, on the side, took part-time contract work at Workday to make ends meet while still looking for a job. Good attitude, has agency.
+- **Just-Make-It-Happen Jason.** 25 or 26, software engineer laid off from Google. First-gen college kid from a Chinese American family. High agency: put himself through creator college, learned to make content, built 50,000+ Instagram followers, still interviewing. Disciplined, positive mindset.
+
+**From Labor to Capital (paid, priority ICP):** high-earning W-2 corporate professionals, often $100K+, who want to build the courage to become wealthy, become owners and investors, and stop being employees.
+
+- **Brian.** 20s, corporate America job. Knows he wants to make more money and be financially independent. Willing to invest in his education. Follows Alex Hormozi and Codie Sanchez.
+- **I-Can-Do-It Ian.** 40s, sales at a big tech company, had a seven-figure year. Knows he doesn't want to do it long-term. Has invested passively in real estate, unsure whether to buy real estate or a small business. Wants deal flow and community, can't get over the hump.
+- **Katie.** Residential real estate agent with the capacity to buy assets, but she doesn't surround herself with the right people. Unstructured, wrong environment, overstimulated, not using all her gifts, stuck on the residential rat race. Has invested in programs like the Hoffman Process and an SMB deal-hunter bootcamp; willing to pay for courses.
+- **Lauren.** The original avatar, built from a recorded coaching conversation with my friend Lauren: 41, healthcare director, 17+ years in biotech/pharma, supports her mom financially, wants out of corporate in 12 months into property plus her own design business, biggest fear is financial insecurity, introvert who'd only join a vetted community.
+
+**4% (paid):** couples community.
+
+- **Jonathan and Jossi.** A couple with a lot of overlap and real potential, but gaps in communication and in knowing whether they're the right fit. Both willing to do the work, both care about each other, both want it to happen, but the gap between how Jossi grew up, including some traumas she carries, and how Jonathan grew up keeps them from moving forward. In 4% they'd be assigned a communication coach and assess their fit score.
+
+**Other audiences:**
+
 - **Homepage / general DailyCourage audience:** ambitious overthinkers who know fear is costing them. Laid-off folks are a subset, not the center.
-- **From Let Go to Let's Go:** laid-off white-collar and tech professionals in transition.
-- **Courage for Love:** will attract a lot more women. Serves the "messy middle" of couples and singles (see the campaign section).
+- **Courage for Love:** will attract a lot more women. Serves the "messy middle" of couples and singles, and its leads ultimately seed 4% (see the campaign section).
 
-The structure: one master ICP (growth-oriented, fear-aware, willing to pay and do the work), segmented per offer.
+The structure: one master ICP (growth-oriented, fear-aware, willing to pay and do the work), segmented per offer, with named avatars per community. Admission is gated to enforce this: see Community admission under Offers & Products for the vetting criteria and membership protocols.
 
 ---
 
@@ -425,16 +450,42 @@ The structure: one master ICP (growth-oriented, fear-aware, willing to pay and d
 
 ### Launching next
 
-- **From Let Go to Let's Go:** free community for laid-off professionals, launching with minimal effort in the next six months. Six-week cohort curriculum already developed. Demand-first approach: free weekly calls before full infrastructure.
+- **From Let Go to Let's Go:** free community for laid-off professionals, starting very small in the next few months. Six-week cohort curriculum already developed. Demand-first approach: free weekly calls before full infrastructure. Free on purpose: we show up for people during the worst time of their career, not to milk a couple dollars out of them but to give support and resources and earn their trust. It's a very low-cost lead, and it's a warm hug focused on fixing their foundation, the mindset, habits, and skills, during the layoff period. A free community that feels like it should be paid, it's going to feel that good. When they're ready, tired of getting laid off three times in five years and wanting to build something sustainable of their own, they graduate into From Labor to Capital. Possible future sponsors: LinkedIn and other career-focused, small-business, adult-learning, or executive MBA brands.
 - **Fear Tax Assessment:** the lead magnet. A "how much is fear costing you" personal audit, emotionally resonant (regrets, the deathbed test, watching others execute), as quantitative as possible without fake precision. Output routes and segments leads. Paired with a dedicated Fear Tax landing page.
 
 ### 2027
 
-- **From Labor to Capital:** the flagship paid community. Pilot launches Q1 2027. Application-based. Coaches and content from operators who actually made the labor-to-capital leap, explicitly not academics. Covers identity work, mechanics (spreadsheets, templates, personal SWOT), and the explicit and hidden fears blocking the transition.
+- **From Labor to Capital:** the flagship paid community. We start selling in January 2027. Application-based. Coaches and content from operators who actually made the labor-to-capital leap, explicitly not academics. Covers identity work, mechanics (spreadsheets, templates, personal SWOT), and the explicit and hidden fears blocking the transition.
 
 ### Future roadmap
 
-The couples community, DailyCourage for Business, the mobile app, physical products (books, journals, card decks), Courage Quests, and Rise. See Vision.
+Free Courage Circle trainings with circle matchmaking (see Strategy), the couples community, DailyCourage for Business, the mobile app, physical products (books, journals, card decks), Courage Quests, and Rise. See Vision.
+
+### The 251% money-back guarantee
+
+Our paid offers carry a 251% money-back guarantee. Three reasons we do this:
+
+1. **It forces us to really understand our product.** We have to know exactly what value it delivers and be that confident in it before we put a guarantee like this behind it.
+2. **It differentiates us.** We've never seen a 251% money-back guarantee in the marketplace. It captures curiosity and it signals courage. It's on brand: leading with courage means putting ourselves out there first.
+3. **It's not a randomly chosen number.** The 251% figure is based on behavioral economics and the research on loss aversion, on how the brain prices risk. Offer people a coin flip, tails you win $100, heads you lose $100, and they won't take the trade. The break-even point where people start accepting a 50-50 flip is around 250%: they need roughly $2.50 of upside for every $1 of downside risk. Our guarantee demonstrates that we understand how fear impacts the mind and decision-making, and it's an opportunity to educate the market at the same time.
+
+### Community admission: hard to get in, on purpose
+
+We don't just let anybody in, and we vet before we ever take your money. Every prospective member has to show:
+
+- They can clearly articulate the outcome they want and expect from being part of the community.
+- The timeframe in which they want to get it.
+- What resources, financial and otherwise, they're willing to invest to get it.
+
+This is not a magic pill or a silver bullet. We create the container and we have the guides, and we're shooting for a 100% success rate with every client. That means we want people who get it, want it, and have the capacity to do it. Camera-on, community-first, givers not takers. People meeting the highest-caliber people they've ever met, and not just on pedigree, genuinely high-quality humans. No grifters. We have systems and checks to keep the wrong people out, and mechanisms to flush them out as soon as we find them.
+
+The first 100 or so members of each community get hand-picked by me. Past the point where my involvement in interviews can scale, a community manager runs the admission process. It will be hard to get into Labor2Capital and 4%, because these are high-trust communities where people share things they won't share anywhere else. High intentionality, high investment, a genuinely safe space, with clear protocol for how we handle conflict.
+
+**Membership protocols:**
+
+1. **Referral required.** You have to be referred by an existing member. That member is your sponsor.
+2. **Three interviews.** Two with existing members, one with the community manager.
+3. **The sponsor stakes their membership.** If you violate the code of conduct or do something shady, you lose your membership with no refund, and your sponsor loses theirs too. A referral is a signature: I trust this person to be good in this community, and I'm willing to risk my own membership on it. Nobody vouches for someone they don't believe is solid.
 
 ### What I'm deliberately not doing
 
@@ -447,14 +498,28 @@ The couples community, DailyCourage for Business, the mobile app, physical produ
 
 ## Strategy
 
+### What the company is: content x community
+
+One way of thinking about DailyCourage: we sit at the intersection of content and community. We're a content company: podcasts, newsletters, books, YouTube, social media, and even our frameworks are content. And we're a community company, because we don't do anything alone. Everybody gets a communal exercise to learn how to do courage reps.
+
 ### The machine
 
 Organic social (Instagram, LinkedIn, TikTok) drives people to free resources. ManyChat integrations capture emails via static and dynamic lead magnets. Everyone lands on the newsletter. Free workshops capture more emails and warm people up. Then we convert to paid community members.
 
+### Courage Circles as a growth engine
+
+DailyCourage leans hard into community because courage is contagious, just like fear. People inherit their fears, and we become the average of the five people we spend the most time with. So a big part of what we do is help people change who's in the room.
+
+We'll run free trainings, at scale, that teach people to form their own Courage Circles without giving us a dollar. The model is Never Search Alone, the book and free nonprofit built on helping people self-organize. A circle can be for getting through the hard months after a layoff, for finding love, or for whatever fear someone's facing.
+
+What a circle looks like: people meeting on a recurring basis to talk about courage and fear, read a book in common, and run the exercises together, fact checking fears, keeping the Fear Log. Self-created and unfacilitated by design: no guest speakers, no case studies, not curated. It's the free way to start understanding what DailyCourage is like. We'll also run circles ourselves and do free matchmaking to place people into one.
+
+Why it's a growth engine: the free training requires registration, which captures the email and puts people on the newsletter. Registrants complete the Fear Tax survey, quantify their tax, and get a report. And circles spread themselves: it takes one interested person sending it to the group chat to pull in three or four friends. Low-cost, highly scalable customer acquisition.
+
 ### Operating principles
 
 - **Courage is a horizontally applicable virtue, but it has to be productized with verticalized solutions.** CourageOS, the Key Three, and the frameworks stay constant across every offer. The outcome changes per offer. The only non-niched product will be the mobile app, which personalizes in-app the way Duolingo does: one app, tailored experience.
-- **Build the ecosystem, not the guru.** Decentralized IP, CrossFit/Toastmasters/AA model, scalable by anyone from anywhere.
+- **Build the ecosystem, not the guru.** Decentralized IP, CrossFit/Toastmasters/AA model, scalable by anyone from anywhere. Courage Circles are the atomic unit of that model: self-organizing pods anyone can start, running on our frameworks, without me in the room.
 - **Model the product.** My personal brand exists to model courage in action: public vulnerability, building in public, doing it scared.
 
 ### Current content strategy **[from working context, not the voice note]**
@@ -501,7 +566,7 @@ That's it. That's the campaign. And it's bigger than me finding my wife: it's ab
 
 **The investor framing:** I've invested intentionally in stocks, private and public equity, crypto, real estate, commercial real estate, oil and gas, syndications. Now I'm applying that same intentionality to finding a wife.
 
-**Mechanics:** submissions run through GoHighLevel with timestamped links tracking submitter and referrer. Terms are being buttoned up with a promotions attorney. Weekly update posts planned. Tux Talk posts are campaign content; non-tux posts are general courage. Campaign leads won't be monetized for a couple of years. A private webinar with prominent relationship guests is under consideration as a lead offer.
+**Mechanics:** submissions run through GoHighLevel with timestamped links tracking submitter and referrer. Terms are being buttoned up with a promotions attorney. Weekly update posts planned. Tux Talk posts are campaign content; non-tux posts are general courage. Campaign leads won't be monetized for a couple of years; ultimately, they're the seed audience for 4%. A private webinar with prominent relationship guests is under consideration as a lead offer.
 
 **Story inventory I draw on:** the Netflix culture deck's courage value, heartbreak at Netflix's 100-million-subscriber party, owning that I didn't package myself well back then, and breaking off my engagement using a head/heart/gut decision check.
 
@@ -522,3 +587,17 @@ That's it. That's the campaign. And it's bigger than me finding my wife: it's ab
 
 **Social proof from past cohorts:** members included a patent holder, someone with three Ivy League degrees, a PhD in neuroscience, and a founder who sold a company for $30M+.
 
+---
+
+## Gaps to Fill
+
+Open items remaining, in rough priority order:
+
+1. **Courage Camp deck contents, Weeks 2 through 8.** The decks exceed the chat upload limit, so they can't be attached directly. Workarounds: paste the slide text week by week, export each deck to plain text, or dictate a per-week summary. Only Week 1 is fully captured.
+2. **Quote verification before print.** Pin exact published wording and sourcing for the Stephen Covey ladder quote and the Maya Angelou courage quote.
+3. **The Penn State study citation.** The 91.4% figure comes from research on people with generalized anxiety disorder. Pin the exact paper before using the stat in externally published material. Same treatment for the Salesforce Tower's roughly 300-foot foundation depth and the ~250% loss-aversion break-even figure behind the guarantee.
+4. **The Swing Triangle name.** Proposed in this doc for the self-awareness, timing, courage framework. Sign off or rename.
+5. **Sacred Six vs Sacred Seven.** Decide whether Phrase ships as standard or stays optional.
+6. **Brand visual identity.** The prior brand guidelines doc is directionally right but unexecuted. Updated brand guidelines and visual identity are in progress; attach them to this bible when done so the designer works from one package.
+7. **The offer-to-avatar-to-bank mapping.** Design the structure that ties each offer to its avatar and each avatar to its contextualized bank of quotes, references, and stories. Organization TBD.
+8. **Guarantee terms and code of conduct.** Formalize the 251% guarantee's written terms, including how it interacts with expulsion (a code-of-conduct violation forfeits both membership and refund), and draft the code of conduct itself. One for the promotions attorney alongside the Courage for Love terms.
