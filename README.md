@@ -44,7 +44,7 @@ Underneath the company mission is my personal one: my life's mission is to posit
 
 ### The 10-year picture
 
-If DailyCourage fully works, in 10 years it's a globally operating ecosystem of products, services, and experiences.
+In 10 years Daily Courage will be a category-defining brand, and a globally operating ecosystem of products, services, and experiences, all focused on solving one problem: abolishing The Fear Tax.
 
 **Products** (digital and physical)
 
