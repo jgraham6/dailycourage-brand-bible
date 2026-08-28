@@ -53,7 +53,7 @@ In 10 years Daily Courage will be a category-defining brand, and a globally oper
 
 **Services**
 
-- Paid communities, cohort-based courses, and small-group coaching.
+- Paid communities, cohort-based courses, online challenges, and corporate trainings.
 - **DailyCourage for Business (B2B).** Fear is the number one line item in every business, but it doesn't show up explicitly on a P&L. It shows up as indecisiveness, passive aggressiveness, taking too long to fire, ego. It's a massive drain on every business. Like Radical Candor or EOS with its implementers, we'll have a network of professionals who understand the Courage Operating System and help companies implement it. A lot of this comes from my time at Netflix, where courage is literally called out in the culture deck as a core value, and candor, directness, hiring, and pay are all built on it.
 
 **Experiences**
