@@ -23,14 +23,14 @@
 13. [Offers & Products](#offers--products)
 14. [Strategy](#strategy)
 15. [The Courage for Love Campaign](#the-courage-for-love-campaign)
-16. [Courage Camp](#courage-camp)
+16. [Courage Camp (DISCONTINUED)](#courage-camp)
 17. [Gaps to Fill](#gaps-to-fill)
 
 ---
 
 ## Mission
 
-The mission of DailyCourage is to abolish the fear tax.
+The mission of DailyCourage is to Abolish the Fear Tax.
 
 The government taxes us on our income. Fear taxes us on our potential. Whether it's the potential to earn more, experience more, or learn more, fear stops us from getting the most out of life. It's the fear of failure, the fear of not being good enough, the fear of rejection, the fear of other people's opinions.
 
@@ -54,7 +54,7 @@ In 10 years Daily Courage will be a category-defining brand, and a globally oper
 **Services**
 
 - Paid communities, cohort-based courses, online challenges, and corporate trainings.
-- **DailyCourage for Business (B2B).** Fear is the number one line item in every business, but it doesn't show up explicitly on a P&L. It shows up as indecisiveness, passive aggressiveness, taking too long to fire, ego. It's a massive drain on every business. Like Radical Candor or EOS with its implementers, we'll have a network of professionals who understand the Courage Operating System and help companies implement it. A lot of this comes from my time at Netflix, where courage is literally called out in the culture deck as a core value, and candor, directness, hiring, and pay are all built on it.
+- **Courage for Teams: the Courage Operating System for companies.** Fear is the number one line item in every business, but it doesn't show up explicitly on a P&L. It shows up as indecisiveness, passive aggressiveness, taking too long to fire, ego. It's a massive drain on every business. Like Radical Candor or EOS with its implementers, we'll have a network of professionals who understand the Courage Operating System and help companies implement it (team cadences, team exercises, adding or killing HR rules). A lot of this comes from my time at Netflix, where courage is literally called out in the culture deck as a core value, and candor, directness, hiring, and pay are all built on it.
 
 **Experiences**
 
@@ -65,10 +65,10 @@ In 10 years Daily Courage will be a category-defining brand, and a globally oper
 
 In 10 years, the main revenue-generating communities are all live and each generating tens of millions of dollars minimum:
 
-1. **4%:** a paid private community for couples to create and cultivate enviable relationships, the first courage-based community for couples. Think EOS for relationships: EOS works structurally with a network of implementers, a curriculum, 90-day check-ins, its own lexicon, events, and software, and 4% is modeled after that. Couples, whether they met on Hinge, Bumble, Tinder, or anywhere else, join to surround themselves with other couples committed to the relationship and to having amazing lives together. The name comes from Dr. David Hawkins and the Map of Consciousness: only about 4% of people ever reach the highest levels. It's aspirational by design. The people in 4% are the ones committed to doing the work and moving into higher levels of consciousness.
-2. **From Labor to Capital:** everything you need to move from being an employee and thinking like an employee to thinking and acting like an owner, understanding all the ways fear stops people from making that move, and moving up the capital stack.
-3. **From Let Go to Let's Go:** courage for career changers and workforce transitions. This one's free. It helps people who've been laid off get through one of the worst times of their life with dignity, and it brings people into the ecosystem.
-4. **Courage for Business:** the B2B arm described above, also a tens-of-millions business.
+1. **Courage for Love = 4%:** a paid private community for couples to create and cultivate enviable relationships, the first courage-based community for couples. Think EOS for relationships: EOS works structurally with a network of implementers, a curriculum, 90-day check-ins, its own lexicon, events, and software, and 4% is modeled after that. Couples, whether they met on Hinge, Bumble, Tinder, or anywhere else, join to surround themselves with other couples committed to the relationship and to having amazing lives together. The name comes from Dr. David Hawkins and the Map of Consciousness: only about 4% of people ever reach the highest levels. It's aspirational by design. The people in 4% are the ones committed to doing the work and moving into higher levels of consciousness.
+2. **Courage for Wealth = Labor to Capital:** everything you need to move from being an employee and thinking like an employee to thinking and acting like an owner, understanding all the ways fear stops people from making that move, and moving up the capital stack.
+3. **Courage for Career Changers** with two offers. **Let's Go (From Let Go to Let's Go)** is always free, for laid-off people. We're not preying on people when they're at their lowest. Its leads are expected to be high-intent for Labor to Capital. **Ladder Movers from DailyCourage** is paid: the first courage-based approach to career change. Your ladder is on the wrong wall. Includes career and small-group coaches, peer accountability, and resume review.
+4. **Courage for Teams = the Courage Operating System for companies:** the B2B arm described above, also a tens-of-millions business.
 
 ### End state
 
@@ -218,12 +218,12 @@ A list of hardcore evidence of all the times fear showed up, lied to you, and wa
 
 ### The Courage Operating System (CourageOS)
 
-A complete system that helps anybody systematically build courage. Six components:
+CourageOS stands for Courage Operating System. It's one system for individuals and teams, and Courage for Teams adapts it for companies. A complete system that helps anybody systematically build courage. Six components:
 
 1. **Courage Compass.** Directionally understand what you want the courage to do, and get super specific about that outcome.
 2. **Courage Baseline.** Measure your courage with the Courage Quotient assessment, delivered as a ScoreApp quiz: a score from 1 to 100 plus a read on where you're strong or weak across the six types of courage.
 3. **Courage Tools.** The Key Three above, plus supporting tools.
-4. **Courage Circles.** Small peer-to-peer pods of 3 to 5 people who show up consistently to reflect and practice the frameworks together. A circle meets on a recurring basis to talk about courage and fear, read a book in common, and run the exercises: fact checking fears, keeping the Fear Log. They're self-organizing: peer-based learning groups that people form and run themselves, unfacilitated and uncurated by design, and helping people form Courage Circles is one of DailyCourage's core ways of making people more courageous (and a growth engine; see Strategy). Courage is contagious, and people inherit their fears from the people around them, so who you put yourself around matters. Nothing at DailyCourage is one-on-one. Everything has a group component.
+4. **Courage Circles.** Small peer-to-peer pods of 3 to 5 people who show up consistently to reflect and practice the frameworks together. A circle meets on a recurring basis to talk about courage and fear, read a book in common, and run the exercises: fact checking fears, keeping the Fear Log. They're self-organizing: peer-based learning groups that people form and run themselves, unfacilitated and uncurated by design, and helping people form Courage Circles is one of DailyCourage's core ways of making people more courageous (and a growth engine; see Strategy). Courage is contagious, and people inherit their fears from the people around them, so who you put yourself around matters. DailyCourage is not a solo one-on-one coaching business. Everyone is in a community and a 3 to 5 person peer pod (Courage Circles) practicing the Fear Log, F.A.C.T.S., and the S.O.U.P. List. One-on-one or small-group support exists only as an add-on inside a community.
 5. **Courage Cadence.** The daily, weekly, monthly, quarterly, and annual rhythms that keep people going, with specific frameworks used at specific intervals.
 6. **Courage Library.** Templates, videos, case studies, audio recordings, guided meditations, and visualizations, so people don't just get frameworks intellectually, they see stories attached to them.
 
@@ -414,7 +414,7 @@ Someone who won't pay. Someone who won't acknowledge they have fear, because the
 
 ### Avatars by community
 
-**From Let Go to Let's Go (free):** laid-off white-collar and tech professionals in transition.
+**Courage for Career Changers:** includes both **Let's Go (From Let Go to Let's Go)** (free, for laid-off white-collar and tech professionals in transition) and **Ladder Movers from DailyCourage** (paid, for career changers).
 
 - **Burnt-out Brannon.** 47, non-technical, college degree, middle-class family. Career stalled out and never took off, let go in an AI-driven layoff. Carries a lot of mental baggage around self-identity, self-belief, and confidence. Reads a couple books a year, listens to podcasts. His biggest problem is isolation: not asking for help, ego getting in the way.
 - **Dynamic D (D. Henry).** Laid off from Zillow and turned her layoff into a layup. Positive mindset, started posting on social media, started her business.
@@ -450,7 +450,8 @@ The structure: one master ICP (growth-oriented, fear-aware, willing to pay and d
 
 ### Launching next
 
-- **From Let Go to Let's Go:** free community for laid-off professionals, starting very small in the next few months. Six-week cohort curriculum already developed. Demand-first approach: free weekly calls before full infrastructure. Free on purpose: we show up for people during the worst time of their career, not to milk a couple dollars out of them but to give support and resources and earn their trust. It's a very low-cost lead, and it's a warm hug focused on fixing their foundation, the mindset, habits, and skills, during the layoff period. A free community that feels like it should be paid, it's going to feel that good. When they're ready, tired of getting laid off three times in five years and wanting to build something sustainable of their own, they graduate into From Labor to Capital. Possible future sponsors: LinkedIn and other career-focused, small-business, adult-learning, or executive MBA brands.
+- **Let's Go (From Let Go to Let's Go):** free community for laid-off professionals, starting very small in the next few months. Six-week cohort curriculum already developed. Demand-first approach: free weekly calls before full infrastructure. Free on purpose: we show up for people during the worst time of their career, not to milk a couple dollars out of them but to give support and resources and earn their trust. It's a very low-cost lead, and it's a warm hug focused on fixing their foundation, the mindset, habits, and skills, during the layoff period. A free community that feels like it should be paid, it's going to feel that good. When they're ready, tired of getting laid off three times in five years and wanting to build something sustainable of their own, they graduate into From Labor to Capital. Possible future sponsors: LinkedIn and other career-focused, small-business, adult-learning, or executive MBA brands.
+- **Ladder Movers from DailyCourage:** paid career change offer, the first courage-based approach to career change. Includes career and small-group coaches, peer accountability, and resume review.
 - **Fear Tax Assessment:** the lead magnet. A "how much is fear costing you" personal audit, emotionally resonant (regrets, the deathbed test, watching others execute), as quantitative as possible without fake precision. Output routes and segments leads. Paired with a dedicated Fear Tax landing page.
 
 ### 2027
@@ -459,7 +460,7 @@ The structure: one master ICP (growth-oriented, fear-aware, willing to pay and d
 
 ### Future roadmap
 
-Free Courage Circle trainings with circle matchmaking (see Strategy), the couples community, DailyCourage for Business, the mobile app, physical products (books, journals, card decks), Courage Quests, and Rise. See Vision.
+Free Courage Circle trainings with circle matchmaking (see Strategy), the couples community, Courage for Teams, the mobile app, physical products (books, journals, card decks), Courage Quests, and Rise. See Vision.
 
 ### The 251% money-back guarantee
 
@@ -572,7 +573,7 @@ That's it. That's the campaign. And it's bigger than me finding my wife: it's ab
 
 ---
 
-## Courage Camp
+## Courage Camp (DISCONTINUED)
 
 **What it was:** the original MVP of DailyCourage. An eight-week cohort-based course that helped people build more courage: five weeks of core material plus three thematic weeks. It was the foundation, and it's now discontinued in that form. I don't want to run one-off generalized cohorts; the future is verticalized communities. The frameworks it validated (the Key Three, the Courage Quotient, the six types) live on in everything.
 
